@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:9400D3,100:3b82f6&height=300&section=header&text=Hi%20There%20👋&animation=fadeIn&fontColor=ffffff)
 **A _Full-Stack Developer_ who loves coding, solving problems & enjoy working with high technology.**
 
 - 🚀 I mainly use `php`, `laravel`, `vue`, `typescript`.
@@ -34,6 +33,8 @@
 <img style="margin: 0.25rem;" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img style="margin: 0.25rem;" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,100:3b82f6&height=120&section=footer)
 <!--
 **ZawWinTin/ZawWinTin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
