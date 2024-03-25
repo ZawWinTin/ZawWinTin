@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:9400D3,100:3b82f6&height=225&section=header&text=Hi%20There%20👋&animation=fadeIn&fontColor=0d1117&stroke=9400D3&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:9400D3,100:3b82f6&height=225&section=header&text=Hi%20There%20👋&animation=fadeIn&fontColor=ffffff&stroke=9400D3&strokeWidth=1)
 ### A _Full-Stack Developer_ who loves coding, solving problems & enjoy working with high technology.
 
 - 🚀 I mainly use `php`, `laravel`, `vue`, `typescript`.
